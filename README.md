@@ -1,2 +1,2 @@
 # webFindGif
-Una web creada en REACT que al utilizar hooks busca y muestra gifs.
+A web created in REACT that uses hooks to search and show gifts
